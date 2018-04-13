@@ -2,4 +2,4 @@
 Feature: Demo
 
   Scenario: Demo desc
-    Given Jeff has bought a microwave for
+    Given This is a dummy test, to ensure all cucumber features are okay
